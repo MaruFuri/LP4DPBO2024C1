@@ -15,7 +15,8 @@ pada kelas-kelas berikut :
 5. ParkingLot : kapasitas, jumlah kendaraan saat ini  
 
 ## Revisi Desain  
-![Revisi Class Diagram](https://github.com/MaruFuri/LP4DPBO2024C1/assets/100757350/39a7c94c-39bb-47fc-b4d2-bfc59b8e18a9)
+![Revisi Class Diagram](https://github.com/MaruFuri/LP4DPBO2024C1/assets/100757350/72f27064-b958-48f3-be2e-878b668cb82e)
+
 
 ## Penjelasan Desain:  
 **Vehicle** merupakan class **parent** dari class **Car** dan class **Motorcycle**.   
